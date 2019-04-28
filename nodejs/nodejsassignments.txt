@@ -1,0 +1,3 @@
+nodejs assignment
+1. create a array find position of all occurances in the given 
+array arr;
